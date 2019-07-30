@@ -152,11 +152,11 @@ To verify that you've successfully modified a sensitive information type, do any
 
 To verify that you've successfully removed a custom sensitive information type, go to **Classifications** \> **Sensitive info types** to verify the custom sensitive information type is no longer listed.
 
-## Test custom sensitive information types in the Security & Compliance Center
+### Test custom or built-in sensitive information types in the Security & Compliance Center
 
 1. In the Security & Compliance Center, go to **Classifications** \> **Sensitive info types**.
 
-2. Select one or more custom sensitive information types to test. In the fly-out that opens, click **Test type** (or **Test sensitive info types** if you selected more than one).
+2. Select one or more custom or built-in sensitive information types to test. In the fly-out that opens, click **Test type** (or **Test sensitive info types** if you selected more than one).
 
     ![Location of Sensitive info types and Test type button](media/scc-cust-sens-info-type-test.png)
 
